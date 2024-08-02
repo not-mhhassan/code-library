@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>
-using namespace std;
+using namespace std; 
 
 const int N = 1e5 + 9, mod = 998244353;
 
@@ -89,6 +89,11 @@ struct PST {
       else if(x > y) return 1;
       else return 2;
     }
+    int x=12;
+    double mid point=60;
+    cover-page 120 pix;
+    
+      
     int mid = b + e >> 1;
     int p = cmp(lc, t[oth].l, b, mid);
     if(p) return p;
